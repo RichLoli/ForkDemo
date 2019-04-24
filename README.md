@@ -1,5 +1,4 @@
 # 多人协作测试仓库
-# Fork
 先对本仓库进行Fork
 
 ![image](https://github.com/RichLoli/ForkDemo/blob/master/1.PNG?raw=true)
